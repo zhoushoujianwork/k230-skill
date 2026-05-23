@@ -1,12 +1,6 @@
 ---
 name: k230
-description: |
-  K230 (lckfb 庐山派 CanMV) toolkit for AI assistants: deploy MicroPython
-  firmware, capture serial logs, take camera-frame screenshots, and answer
-  questions about board facts, pin maps, mpremote quirks.
-  Triggers: "K230 推码", "烧录 K230", "K230 调试", "K230 串口", "K230 截图",
-  "K230 日志", "K230 deploy", "push to k230", "k230 screenshot",
-  "k230 serial log", "lckfb 庐山派".
+description: K230 (lckfb 庐山派 CanMV) toolkit — deploy MicroPython firmware to /sdcard/, capture USB-CDC serial logs, take camera-frame screenshots, and answer questions about board pin maps and mpremote/CanMV quirks. Use when the user mentions K230, lckfb 庐山派, CanMV, K230 烧录, K230 推码, K230 调试, K230 串口, K230 截图, K230 日志, K230 deploy, push to k230, k230 screenshot, k230 serial log, k230 firmware, k230 flash, mpremote.
 ---
 
 # K230 (lckfb 庐山派 CanMV) toolkit
